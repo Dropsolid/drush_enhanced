@@ -1,0 +1,4 @@
+name = "Drush enhanced"
+description = "Enhance your drush with usefull new commands"
+core = 7.x
+package = Drush
